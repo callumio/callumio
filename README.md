@@ -4,14 +4,14 @@
 - 🌱 I’m currently learning:
   - **Rust** for general programming
   - **Solidity** for Ethereum contracts (and for other EVM compatible chains)
-  -
+  - **JavaScript/Node.js** for everything else
 - 🥅 My 2022 Goals:
 
-  - Learn more about smart contracts development.
-  - Expand my knowledge and application of blockchain.
-  - Become more confident in Rust.
-  - Contribute more to open-source projects.
-  - Get a job once I finish colleg exams!
+  - Learn more about smart contracts development
+  - Expand my knowledge and application of blockchain
+  - Become more confident in Rust
+  - Contribute more to open-source projects
+  - Get a job once I finish college exams!
 
 - 📫 If you need to contact me, please email **github@cleslie.uk**
 
