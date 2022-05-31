@@ -5,11 +5,13 @@
   - **Rust** for general programming
   - **Solidity** for Ethereum contracts (and for other EVM compatible chains)
   - **JavaScript/Node.js** for everything else
+
 - 🥅 My 2022 Goals:
 
   - Learn more about smart contracts development
   - Expand my knowledge and application of blockchain
   - Become more confident in Rust
+  - Get better at frontend design (using React and TailwindCSS)
   - Contribute more to open-source projects
   - Get a job once I finish college exams!
 
