@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning:
   - **Rust** for general programming
   - **Python** for artificial intelligence / machine learning
-  - **JavaScript** web development
+  - **JavaScript** for web development
+  - **Bash** for shell scripting
 
 - 🥅 My 2022 Goals:
 
