@@ -33,3 +33,6 @@
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=callumio&show_icons=true&theme=onedark&locale=en&layout=compact&hide=lua,shell,liquid" alt="callumio" /><br/><br/><img align="center" src="https://github-readme-stats.vercel.app/api?username=callumio&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&layout=compact" alt="callumio"/></p>
 
+---
+
+<p align="center">i use arch, btw</p>
