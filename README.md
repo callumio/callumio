@@ -3,17 +3,15 @@
 
 - 🌱 I’m currently learning:
   - **Rust** for general programming
-  - **Solidity** for Ethereum contracts (and for other EVM compatible chains)
-  - **JavaScript/Node.js** for everything else
+  - **Python** for artificial intelligence / machine learning
+  - **JavaScript** for everything else
 
 - 🥅 My 2022 Goals:
 
-  - Learn more about smart contracts development
-  - Expand my knowledge and application of blockchain
-  - Become more confident in Rust
-  - Get better at frontend design (using React and TailwindCSS)
+  - Become fully confident in Rust
+  - Begin learning Go
+  - Gain a better understanding of artificial intelligence
   - Contribute more to open-source projects
-  - Get a job once I finish college exams!
 
 - 📫 If you need to contact me, please email **github@cleslie.uk**
 
@@ -21,9 +19,6 @@
 <p align="center">
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-</a>
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
