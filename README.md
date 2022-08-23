@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Callum 👋</h1>
-<h3 align="center">A student and aspiring software engineer with a focus on blockchain and backend development!</h3>
+<h3 align="center">A student and aspiring software engineer with a focus on systems and backend development!</h3>
 
 - 🌱 I’m currently learning:
   - **Rust** for general programming
