@@ -2,17 +2,10 @@
 <h3 align="center">A student and aspiring software engineer with a focus on systems and backend development!</h3>
 
 - 🌱 I’m currently learning:
-  - **Rust** for general programming
-  - **Python** for artificial intelligence / machine learning
-  - **JavaScript** for web development
+  - **Rust/C** for general programming
+  - **Haskell/Elixir** for functional programming
+  - **COBOL** for fun
   - **Bash** for shell scripting
-
-- 🥅 My 2022 Goals:
-
-  - Become fully confident in Rust
-  - Begin learning Go
-  - Gain a better understanding of artificial intelligence
-  - Contribute more to open-source projects
 
 - 📫 If you need to contact me, please email **github@cleslie.uk**
 
