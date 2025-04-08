@@ -2,11 +2,10 @@
 <h3 align="center">I'm an embedded software developer working in agriculture and a computer science student!</h3>
 
 - 🌱 I’m currently using:
-  - **Rust** for general programming
+  - **Rust/C++** for general programming
   - **C++/C/Rust** for embedded programming
-  - **Haskell** for functional programming
-  - **Bash** for shell scripting
-  - **Nix** for configuration management
+  - **OCaml/Haskell** for functional programming
+  - **Nix** for configuration management and dev environments
 
 - 📫 If you need to contact me, please email **github@cleslie.uk**
 
